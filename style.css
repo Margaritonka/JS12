@@ -1,0 +1,11 @@
+.player {
+    background-color: rgb(197, 153, 115);
+    width: 352px;
+}
+
+.buttons {
+
+    width: 352px;
+    display: flex;
+    justify-content: space-around;
+}
